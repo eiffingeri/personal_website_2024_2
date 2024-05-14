@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'YJ's personal_website_2024_2'
+site_description: 'YJ's personal_website_2024_2'
+site_author: Yahn-Jauh Su
+site_url: https://cu-esiil.github.io/personal_website_2024_2
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: personal_website_2024_2
+repo_url: https://github.com/eiffingeri/personal_website_2024_2
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
